@@ -132,7 +132,7 @@ A Software Engineer specializing in Web Development. Experience with the technol
     height="40px"
   />
 </a>
-<a href="https://www.instagram.com/mehedihasan_antor" target="_blank">
+<a href="https://www.instagram.com/mehedihasan.antor" target="_blank">
   <img
     src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"
     alt="Instagram logo"
