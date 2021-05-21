@@ -124,15 +124,15 @@ A Software Engineer specializing in Web Development. Experience with the technol
 ---
 ### ✉ Contacts
 
-<a href="https://www.linkedin.com/in/martin-velkov-228aa91a8/" target="_blank">
+<a href="https://www.linkedin.com/in/mehedi-hasan-antor-6b6701134/" target="_blank">
   <img
     src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
-    alt="Facebook logo"
+    alt="Linkedin logo"
     width="40px"
     height="40px"
   />
 </a>
-<a href="https://www.instagram.com/m_velkov123/" target="_blank">
+<a href="https://www.instagram.com/mehedihasan_antor" target="_blank">
   <img
     src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"
     alt="Instagram logo"
@@ -140,7 +140,7 @@ A Software Engineer specializing in Web Development. Experience with the technol
     height="40px"
   />
 </a>
-<a href="https://www.facebook.com/m.velkov123/" target="_blank">
+<a href="https://www.facebook.com/aaaaantor/" target="_blank">
   <img
     src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"
     alt="Facebook logo"
@@ -151,8 +151,8 @@ A Software Engineer specializing in Web Development. Experience with the technol
 
 ---
 
-### ☕ Support
+<!-- ### ☕ Support
 
 <a href="https://www.buymeacoffee.com/martstech" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
-</a>
+</a> -->
