@@ -85,12 +85,6 @@ A Software Engineer specializing in Web Development. Experience with the technol
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
-  alt="PostgreSQL logo"
-  width="40px"
-  height="40px"
-/>
-<img
   src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
   alt="MongoDB logo"
   width="40px"
@@ -102,12 +96,7 @@ A Software Engineer specializing in Web Development. Experience with the technol
   width="40px"
   height="40px"
 />
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
-  alt="Docker logo"
-  width="40px"
-  height="40px"
- />
+
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
   alt="Npm logo"
