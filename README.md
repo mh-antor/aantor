@@ -66,12 +66,7 @@ A Software Engineer specializing in Web Development. Experience with the technol
   width="40px"
   height="40px"
 />
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"
-  alt="GraphQL logo"
-  width="40px"
-  height="40px"
-/>
+
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
   alt="NodeJs logo"
