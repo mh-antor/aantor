@@ -96,7 +96,6 @@ A Software Engineer specializing in Web Development. Experience with the technol
   width="40px"
   height="40px"
 />
-
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
   alt="Npm logo"
