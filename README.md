@@ -93,6 +93,13 @@ A Software Engineer specializing in Web Development. Experience with the technol
 />
 
 <img
+  src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg"
+  alt="Webpack logo"
+  width="40px"
+  height="40px"
+/>
+
+<img
   src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
   alt="Npm logo"
   width="40px"
