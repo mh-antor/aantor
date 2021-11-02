@@ -144,7 +144,7 @@ A Software Engineer specializing in Web Development. Experience with the technol
 </a>
 
 ---
-[![Antor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aantor)](https://github.com/aantor/github-readme-stats&show_icons=true&theme=radical)
+[![Antor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aantor&show_icons=true&theme=radical)]
 
 <!-- ### ☕ Support
 
