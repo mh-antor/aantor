@@ -145,6 +145,9 @@ A Software Engineer specializing in Web Development. Experience with the technol
 
 ---
 
+[![Antor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aantor)](https://github.com/aantor/github-readme-stats)
+
+
 <!-- ### ☕ Support
 
 <a href="https://www.buymeacoffee.com/martstech" target="_blank">
