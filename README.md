@@ -115,8 +115,6 @@ A Software Engineer specializing in Web Development. Experience with the technol
   height="40px"
 />
 
-[![Antor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aantor)](https://github.com/aantor/github-readme-stats)
-
 ---
 ### ✉ Contacts
 
@@ -147,6 +145,7 @@ A Software Engineer specializing in Web Development. Experience with the technol
 
 ---
 
+[![Antor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aantor)](https://github.com/aantor/github-readme-stats)
 
 <!-- ### ☕ Support
 
