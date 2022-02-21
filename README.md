@@ -4,7 +4,7 @@
 
 <!-- Programmer gif -->
 <img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
-  <p align='left'>
+
 - 🔭 I’m currently working on **appointment_with_company**  
   
 - 🌱 I’m currently learning **React, Node, Algorithms**  
@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/aantorinfo](https://github.com/aantorinfo)  
   
 - 📫 How to reach me **antorinfo@gmail.com**  
-  </p>
+
 
   
 <h3 align="left">Connect with me:</h3>  
