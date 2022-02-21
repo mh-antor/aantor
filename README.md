@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Antor</h1>  
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>  
+
+<!-- Programmer gif -->
+<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
   <p align='left'>
 - 🔭 I’m currently working on **appointment_with_company**  
   
@@ -15,8 +18,6 @@
 - 📫 How to reach me **antorinfo@gmail.com**  
   </p>
 
-<!-- Programmer gif -->
-<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
