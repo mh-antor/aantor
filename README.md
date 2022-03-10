@@ -13,7 +13,7 @@
   
 - 🤝 I’m looking for help with **appointment_with_company**  
   
-- 👨‍💻 All of my projects are available at [https://github.com/aantorinfo](https://github.com/aantorinfo)  
+- 👨‍💻 All of my projects are available at [https://github.com/aantor](https://github.com/aantor)  
   
 - 📫 How to reach me **antorinfo@gmail.com**  
 
